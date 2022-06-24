@@ -1,0 +1,28 @@
+{
+  "leads": [
+    {
+      "name": "ARTEM MAKSIMOV",
+      "vd": "realt",
+      "tp": "Сопровождение",
+      "email": "rayleeeshov@gmail.com",
+      "tel": "89178612300",
+      "id": 1
+    },
+    {
+      "name": "ARTEM MAKSIMOV",
+      "vd": "Риэлторские услуги",
+      "tp": "Жилищные споры",
+      "email": "leak-lees@mail.ru",
+      "tel": "89178612300",
+      "id": 2
+    },
+    {
+      "name": "",
+      "vd": "Юридические услуги",
+      "tp": "Гражданские споры",
+      "email": "",
+      "tel": "",
+      "id": 3
+    }
+  ]
+}
